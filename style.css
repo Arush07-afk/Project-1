@@ -1,6 +1,3 @@
-*{
-    text-align: center;
-}
 .navbar1{
     background-color: #eeeeee;
     display: flex;
@@ -61,4 +58,5 @@ a{
 .imgcon{
     padding-top:150px;
     font-family:"Arial",sans-serif;
+
 }
